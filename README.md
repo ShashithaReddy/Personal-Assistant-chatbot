@@ -29,7 +29,10 @@ You can access the full documentation of this project through the link below
 
 ## Screenshots
 
-![App Screenshot](C:\Users\DELL\Desktop)
+![App Screenshot](https://github.com/ShashithaReddy/Personal-Assistant-chatbot/blob/main/Untitled2.png)
+![App Screenshot](https://github.com/ShashithaReddy/Personal-Assistant-chatbot/blob/main/Untitled.png)
+
 
 
 ## Plagarism Report
+!PlagarismReportScreenshot](https://github.com/ShashithaReddy/Personal-Assistant-chatbot/blob/main/plagarism_report.png)

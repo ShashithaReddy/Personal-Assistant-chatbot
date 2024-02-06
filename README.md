@@ -34,8 +34,8 @@ You can access the full documentation of this project through the link below
 ![App Screenshot](https://github.com/ShashithaReddy/Personal-Assistant-chatbot/blob/main/Untitled.png)
 
 ## Importing the project
-we recommend you to use Google Colab in order to see the live working of the project. Copy and paste the code from the source file and you are ready.
+we recommend, using Google Colab to see the live working of the project. Use the link: https://platform.openai.com/api-keys to generate a secret access key of Openai, (which can be viewed only once), copy and paste the code in a file named SecretKey.txt, and upload this to the Colab environment. Copy and paste the code from the source file and you are ready to run and see the live demonstration of the project.
+  
 
-
-## Plagarism Report
-![PlagarismReportScreenshot](https://github.com/ShashithaReddy/Personal-Assistant-chatbot/blob/main/plagarism_report.png)
+## Plagiarism Report
+![PlagiarismReportScreenshot](https://github.com/ShashithaReddy/Personal-Assistant-chatbot/blob/main/plagarism_report.png)

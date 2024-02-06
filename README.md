@@ -21,8 +21,6 @@ of the internet.
 
 - [@ShashithaReddy](https://github.com/ShashithaReddy)
 
-- [@greeshmavamsi](https://github.com/greeshmavamsi)
--[@shivamsingh]
 ## Documentation
 You can access the full documentation of this project through the link below
 
